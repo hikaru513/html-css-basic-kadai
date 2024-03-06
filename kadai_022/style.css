@@ -11,6 +11,7 @@ h1{
 
 p{
     margin:0;
+    font-size: 20px;
 }
 
 body{
@@ -60,6 +61,7 @@ footer{
 
 a{
     color:rgb(255, 255, 255);
+    font-size: 20px;
 }
 
 a:visited {
@@ -83,3 +85,4 @@ a:hover {
         display: block;
     }
 }
+
